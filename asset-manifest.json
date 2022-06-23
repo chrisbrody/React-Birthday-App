@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Birthday-App/static/css/main.8bee4867.css",
+    "main.js": "/React-Birthday-App/static/js/main.d456738f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/React-Birthday-App/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/React-Birthday-App/index.html",
+    "main.8bee4867.css.map": "/React-Birthday-App/static/css/main.8bee4867.css.map",
+    "main.d456738f.js.map": "/React-Birthday-App/static/js/main.d456738f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/React-Birthday-App/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bee4867.css",
+    "static/js/main.d456738f.js"
+  ]
+}
